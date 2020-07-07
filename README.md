@@ -1,2 +1,6 @@
-# senhas_vazamento
-Programa que verifica se as senhas em um determinado arquivo foram vazadas.
+# Password leaks
+
+## About <a name = "about"></a>
+
+Program that checks whether passwords in a given file have been leaked.
+
